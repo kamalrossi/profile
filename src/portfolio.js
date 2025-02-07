@@ -1,7 +1,6 @@
 import aboutpic from "./components/Access/rossi.jpg"
 
-const header = {
-  // all the properties are optional - can be left empty or deleted
+const header = { 
   homepage: 'https://kamalrossi.github.io/profile',
   title: 'Rossi Kamal',
 }
