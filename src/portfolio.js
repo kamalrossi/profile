@@ -19,6 +19,15 @@ const about = {
 }
 
 const projects = [
+    {
+    name: 'vAvatar',
+    description:'Emotion recognition from facial actions',
+    stack: ['LSTM', 'Multi-level', 'Classifier'],
+    sourceCode: 'https://kamalrossi.github.io/vAvatar',
+
+  },
+  
+  
   {
     name: 'CityRide',
     description:'CityRide is a ride-sharing app with dashboard having  modules namely rider, driver, ride, cancellation and analytics.',
